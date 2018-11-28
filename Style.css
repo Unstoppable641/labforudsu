@@ -1,0 +1,69 @@
+.authwind {
+    margin: 120px;
+    padding: 10px;
+}
+
+.imgs {
+    width: 55%;
+    height: 70%;
+}
+
+p {
+    font-family:Lobster, cursive;
+    Font-size:30px;
+}
+
+.modal-footer {
+    padding: 30px;
+}
+
+
+
+
+footer{
+    color: white;
+}
+footer a{
+    color: #bfffff;
+}
+footer a:hover{
+    color: white;
+}
+
+.footer-bottom{
+    background: #BFC7C8;
+    padding: 1em;
+}
+.footer-top{
+    background: #BFC7C8;
+}
+.footer-middle{
+    background: #BFC7C8;
+    padding-top: 1em;
+    color: white;
+}
+/**Sub Navigation**/
+.subnavigation-container{
+    background: #bfc7c8;
+}
+.subnavigation .nav-link{
+    color: white;
+    font-weight: bold;
+}
+.subnavigation-container{
+    text-align: center;
+}
+.subnavigation-container .navbar{
+    display: inline-block;
+    margin-bottom: -6px; /* Inline-block margin offffset HACK -Gilron */
+}
+.col-subnav a{
+    padding: 1rem 1rem;
+    color: white;
+    font-weight: bold;
+}
+.col-subnav .active{
+    border-top:5px solid orange;
+    background: white;
+    color: black;
+}
